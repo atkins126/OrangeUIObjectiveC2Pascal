@@ -1,0 +1,1 @@
+C:\OrangeFreeSDK\SGQRCodeScan\SGQRCodeScanSDK\SGQRCode.framework\Headers\WBQRCodeVC.h
